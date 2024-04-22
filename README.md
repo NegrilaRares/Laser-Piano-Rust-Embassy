@@ -41,7 +41,7 @@ The format is
 | [AMP LM386]([link://to/device](https://www.ti.com/lit/ds/symlink/lm386.pdf)) | This is used amplify the analog singal | [6.5 RON]([link://to/store](https://ardushop.ro/ro/electronica/241-modul-amplificator-audio-lm386.html)) |
 
 ## Hardware Design (work in progress)
-[kicad] Can't post here. Will be shown in the lab.
+[kicad] In the Project-KiCad Folder
 
 
 ## Links
