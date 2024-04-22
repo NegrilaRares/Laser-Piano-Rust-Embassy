@@ -28,7 +28,7 @@ The format is
 | [Rapspberry Pi Pico W](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) | The microcontroller | [35 RON](https://www.optimusdigital.ro/en/raspberry-pi-boards/12394-raspberry-pi-pico-w.html) |
 | 13 * Led | This is used for displaying current settings | [-] |
 | 13 * 220 Ohm R | This is used to make sure the leds don't get fried | [-] |
-| 10 * 10 kOhm R | This is used to crate pull up and pull down resistors | [-] |
+| 10 * 10 kOhm R | This is used to create pull up and pull down resistors | [-] |
 | 7 * 0.1 uF Capacitor | This is used to debounce the signal from the laser receivers | [-] |
 | lots * cables | This is used to connect diffrent things on the breadboard | [-] |
 | 10k Potentiometer | This is used for volume input | [2 RON] |
