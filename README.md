@@ -34,7 +34,7 @@ The format is
 | 10k Potentiometer | This is used for volume input | [2 RON] |
 | 2 * [Shift Register]([link://to/device](https://www.diodes.com/assets/Datasheets/74HC595.pdf)) | This is used for the output of the volume setting | [2 RON](https://www.optimusdigital.ro/en/others/2448-registru-de-deplasare-74hc595-dip-16.html) |
 | Laser Diode | This is used to generate a laser | [2.5 RON]([link://to/store](https://ardushop.ro/ro/electronica/262-modul-dioda-laser-rou-5mw.html)) |
-| [ISO203]([link://to/device](https://forum.arduino.cc/t/documents-about-laser-sensor-ds18b20/1090450/5)) | This is used to monitor for interference in the path of the laser | [6.5 RON](https://www.optimusdigital.ro/en/others/3289-laser-diode-receiver.html) |
+| 7 * [ISO203]([link://to/device](https://forum.arduino.cc/t/documents-about-laser-sensor-ds18b20/1090450/5)) | This is used to monitor for interference in the path of the laser | [6.5 RON](https://www.optimusdigital.ro/en/others/3289-laser-diode-receiver.html) |
 | Catalex MicroSd card slot | This is used to read the data from a microsd | [4.4 RON]([link://to/store](https://www.optimusdigital.ro/en/memories/1516-microsd-card-slot-module.html)) |
 | [DAC MCP4725]([link://to/device](https://ww1.microchip.com/downloads/en/devicedoc/22039d.pdf)) | This is used to transfrom the binary from the audio file data into an analog singal for the speaker | [25 RON]([link://to/store](https://www.optimusdigital.ro/en/others/1327-dac-mcp4725-module-with-i2c-interface.html?search_query=dac&results=62)) |
 | Speaker | This is used to create a sound based on the analog input given by the system | [-] |
