@@ -1,0 +1,18 @@
+# Path to main Project folder
+
+cd C:\Users\rares\Desktop\project-NegrilaRares
+
+# If not done in the certain folder with embassy code, the Cargo.toml file members should be edited
+
+cd Desktop/project-NegrilaRares
+cargo build --release --target thumbv6m-none-eabi 
+
+# Don't forget to change name_of_uf2.uf2 to something more descriptive for easier sorting
+
+// to store for later
+elf2uf2-rs C:\Users\rares\Desktop\project-NegrilaRares\target\thumbv6m-none-eabi\release\embassy C:\Users\rares\Desktop\project-NegrilaRares\UF2\name_of_uf2.uf2
+
+// to quick deploy
+elf2uf2-rs -d -s C:\Users\rares\Desktop\project-NegrilaRares\target\thumbv6m-none-eabi\release\embassy
+
+
